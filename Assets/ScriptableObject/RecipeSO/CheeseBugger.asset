@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c6784fd520f90d468e4441a6c1c7278, type: 3}
+  m_Name: CheeseBugger
+  m_EditorClassIdentifier: 
+  kitchenObjectSOList:
+  - {fileID: 11400000, guid: 9895fa6938d635047a401f0a2c78b134, type: 2}
+  - {fileID: 11400000, guid: 6716b230e02fb5a448216313aac3919d, type: 2}
+  - {fileID: 11400000, guid: cbed506bf818c5147978459e40a846c3, type: 2}
+  recipeName: CheeseBugger
